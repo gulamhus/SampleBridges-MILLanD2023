@@ -1,0 +1,2 @@
+python src/main.py -t rating -d data/rating/test_imgs
+python src/main.py -t keypoints -d data/keypoints/test_imgs
